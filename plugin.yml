@@ -1,5 +1,5 @@
-name: PlayersInfo
-main: info\PlayersINFO
+name: TrollPlugin
+main: TeamPocketPHP\Main
 version: 0.1
 author: TeamPocketPHP
 api: [2.0.0, 2.1.0, 3.0.0-ALPHA1, 3.0.0]
